@@ -35,7 +35,7 @@
 	        			<muleVersion>4.3.0</muleVersion>
 	       			 	<username>${anypoint.username}</username>
 	       			 	<password>${anypoint.password}</password>
-	        			<applicationName>${name}</applicationName>
+	        			<applicationName>cbr-uat-test-deploy</applicationName>
 	        			<environment>Sandbox</environment>
 	        			<workerType>MICRO</workerType>
 	        			<region>us-west-1</region>
